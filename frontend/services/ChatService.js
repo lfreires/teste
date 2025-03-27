@@ -31,5 +31,5 @@ class ChatService {
   }
 }
 
-const chatService = new ChatService('http://3.92.229.138:8000');
+const chatService = new ChatService('https://hackatonmackenzie.site/');
 export default chatService;
